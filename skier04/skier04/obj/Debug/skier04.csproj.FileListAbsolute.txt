@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\skier04\skier04\bin\Debug\skier04.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\skier04\skier04\bin\Debug\skier04.exe
+c:\users\admin\documents\visual studio 2015\Projects\skier04\skier04\bin\Debug\skier04.pdb
+c:\users\admin\documents\visual studio 2015\Projects\skier04\skier04\obj\Debug\skier04.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\skier04\skier04\obj\Debug\skier04.exe
+c:\users\admin\documents\visual studio 2015\Projects\skier04\skier04\obj\Debug\skier04.pdb
