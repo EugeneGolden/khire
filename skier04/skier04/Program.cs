@@ -15,7 +15,7 @@ namespace skier04
             {
                 summa = firstDayDistance + koefficient * summa;
                 Console.WriteLine("Sum of " + (i + 1) + " days is " + summa);
-                Console.ReadKey();
+                //Console.ReadKey();
             }
             return summa;
         }
@@ -29,6 +29,8 @@ namespace skier04
             decimal resultat;
             Program res = new Program();
             resultat = res.Distance(firstDayDistance, koefficient, days);
+            Console.WriteLine("The skier has covered " + resultat + " in 7 days");
+            Console.ReadKey();
         }
     }
 }
